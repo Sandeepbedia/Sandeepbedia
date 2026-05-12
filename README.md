@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6750A4&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Alex+Chen+%F0%9F%91%8B;Senior+Mobile+%26+App+Developer+%F0%9F%93%B1;Crafting+apps+that+users+love+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6750A4&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello%2C+I'm+Sandeep+Bedia;Full+Stack+App+Developer;Building+scalable%2C+user-centric+apps)](https://github.com/Sandeepbedia)
 
 <br/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=alexchen-dev&label=Profile+Views&color=6750A4&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/alexchen-dev?label=Followers&style=flat-square&color=625B71)](https://github.com/alexchen-dev)
-[![GitHub stars](https://img.shields.io/github/stars/alexchen-dev?label=Total+Stars&style=flat-square&color=7D5260)](https://github.com/alexchen-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=Sandeepbedia&label=Profile+Views&color=6750A4&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Sandeepbedia?label=Followers&style=flat-square&color=625B71)](https://github.com/Sandeepbedia)
+[![GitHub stars](https://img.shields.io/github/stars/Sandeepbedia?label=Total+Stars&style=flat-square&color=7D5260)](https://github.com/Sandeepbedia)
 
 </div>
 
@@ -18,20 +18,18 @@
 
 ```kotlin
 data class Developer(
-    val name:       String  = "Alex Chen",
-    val title:      String  = "Senior Mobile & App Developer",
-    val location:   String  = "San Francisco, CA 🌉",
-    val experience: Int     = 7,        // years
-    val appsShipped:Int     = 40,
-    val downloads:  String  = "2M+",
-    val languages:  List<String> = listOf("Kotlin", "Swift", "Dart", "TypeScript"),
-    val passions:   List<String> = listOf("Clean Architecture", "UI/UX", "Performance", "Open Source"),
-    val coffee:     Boolean = true      // always
+    val name:         String  = "Sandeep Bedia",
+    val title:        String  = "Full Stack App Developer",
+    val focus:        String  = "Mobile & Web Applications",
+    val experience:   String  = "Building innovative solutions",
+    val passions:     List<String> = listOf("Clean Code", "UX Design", "Performance", "Open Source"),
+    val philosophy:   String  = "Code that solves real problems",
+    val coffee:       Boolean = true  // always
 )
 ```
 
-> 🚀 Passionate app developer turning complex problems into elegant, intuitive mobile experiences.  
-> I believe great apps are felt, not just used — every animation, every tap, every transition matters.
+> 🚀 Passionate developer crafting beautiful, performant applications across mobile and web platforms.  
+> I focus on writing clean, maintainable code and delivering exceptional user experiences.
 
 <br/>
 
@@ -41,26 +39,26 @@ data class Developer(
 
 ### 👀 Quick Facts
 
-- 🔭 &nbsp;**Working on:** Fintech super-app @ NeoBank Inc.
-- 🌱 &nbsp;**Learning:** Jetpack Compose & SwiftUI animations
-- 🤝 &nbsp;**Collaborating on:** Open source mobile UI libs
-- 💬 &nbsp;**Ask me about:** Flutter, React Native, App Architecture
-- ⚡ &nbsp;**Fun fact:** Shipped apps to 50+ countries 🌍
-- 📧 &nbsp;**Reach me:** [alex@devcraft.io](mailto:alex@devcraft.io)
+- 🔭 &nbsp;**Working on:** Full stack application development
+- 🌱 &nbsp;**Learning:** Latest frameworks and best practices
+- 🤝 &nbsp;**Collaborating on:** Open source projects
+- 💬 &nbsp;**Ask me about:** Web dev, mobile apps, system design
+- ⚡ &nbsp;**Fun fact:** Love turning ideas into reality through code 💡
+- 📧 &nbsp;**Reach me:** sandeepbedia@example.com
 
 </td>
 <td>
 
-### 🏆 Impact Metrics
+### 🏆 Developer Focus
 
-| Metric | Value |
-|--------|-------|
-| 💼 Experience | **7+ Years** |
-| 📱 Apps Shipped | **40+** |
-| 📥 Total Downloads | **2M+** |
-| ⭐ GitHub Stars | **3.5k** |
-| 🌍 Countries Reached | **50+** |
-| ☕ Coffees Consumed | **∞** |
+| Area | Status |
+|------|--------|
+| 💻 Development | **Active** |
+| 🎨 UI/UX Design | **Proficient** |
+| 🧪 Testing | **Focused** |
+| 📊 Data & Analytics | **Experienced** |
+| ☁️ Cloud Tech | **Exploring** |
+| ☕ Passion | **Unlimited** |
 
 </td>
 </tr>
@@ -78,27 +76,35 @@ data class Developer(
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 
-### 🌐 Web & Backend
+### 🌐 Web Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & DevOps
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material_You-6750A4?style=for-the-badge&logo=material-design&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
@@ -106,33 +112,27 @@ data class Developer(
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexchen-dev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1C1B1F&title_color=D0BCFF&icon_color=CCC2DC&text_color=CAC4D0&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchen-dev&layout=compact&theme=material-palenight&hide_border=true&bg_color=1C1B1F&title_color=D0BCFF&text_color=CAC4D0&langs_count=8"/>
+[![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeepbedia&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1C1B1F&title_color=D0BCFF&icon_color=CCC2DC&text_color=D0BCFF&count_private=true)](https://github.com/Sandeepbedia)
+
+[![Sandeep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepbedia&layout=compact&theme=material-palenight&hide_border=true&bg_color=1C1B1F&title_color=D0BCFF&text_color=D0BCFF)](https://github.com/Sandeepbedia)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexchen-dev&theme=material-palenight&hide_border=true&background=1C1B1F&stroke=6750A4&ring=D0BCFF&fire=FFB4AB&currStreakLabel=D0BCFF&sideLabels=CAC4D0&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sandeepbedia&theme=material-palenight&hide_border=true&background=1C1B1F&stroke=6750A4&ring=D0BCFF&fire=FFB4AB&currStreakLabel=D0BCFF)](https://github.com/Sandeepbedia)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## �� Featured Projects
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexchen-dev&theme=darkhub&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![NeoBank](https://github-readme-stats.vercel.app/api/pin/?username=alexchen-dev&repo=neobank-app&theme=material-palenight&hide_border=true&bg_color=1C1B1F&title_color=D0BCFF&icon_color=CCC2DC&text_color=CAC4D0)](https://github.com/alexchen-dev/neobank-app)
-[![FlutterUI Kit](https://github-readme-stats.vercel.app/api/pin/?username=alexchen-dev&repo=flutter-m3-kit&theme=material-palenight&hide_border=true&bg_color=1C1B1F&title_color=D0BCFF&icon_color=CCC2DC&text_color=CAC4D0)](https://github.com/alexchen-dev/flutter-m3-kit)
+| Project | Description |
+|---------|-------------|
+| 🚀 [Project 1](#) | Description of your first flagship project |
+| 📱 [Project 2](#) | Description of your second notable project |
+| 🎯 [Project 3](#) | Description of your third project |
 
 </div>
 
@@ -140,15 +140,14 @@ data class Developer(
 
 ## 📊 Coding Activity
 
-<!--START_SECTION:waka-->
 ```text
-Flutter      ████████████░░░░░░░░░   45.2%
-Kotlin       ██████░░░░░░░░░░░░░░░   22.8%
-TypeScript   ████░░░░░░░░░░░░░░░░░   16.4%
-Swift        ███░░░░░░░░░░░░░░░░░░   10.3%
-Other        █░░░░░░░░░░░░░░░░░░░░    5.3%
+Languages Used (Last 7 days)
+TypeScript   ██████████░░░░░░░░░░ 35%
+JavaScript   ████████░░░░░░░░░░░░ 25%
+Dart         ███████░░░░░░░░░░░░░ 18%
+Python       █████░░░░░░░░░░░░░░░ 12%
+Other        ████░░░░░░░░░░░░░░░░ 10%
 ```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -156,33 +155,30 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devcraft.io-6750A4?style=for-the-badge)](https://devcraft.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexchendev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexchendev)
-[![Twitter](https://img.shields.io/badge/Twitter-@alexchendev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alexchendev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-alexchen-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/alexchen)
-[![Medium](https://img.shields.io/badge/Medium-@alexchen-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexchen)
-[![Email](https://img.shields.io/badge/Email-alex@devcraft.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex@devcraft.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Your_Site-6750A4?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep_Bedia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeepbedia)
+[![Twitter](https://img.shields.io/badge/Twitter-@your_handle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Sandeep-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sandeepbedia)
+[![Email](https://img.shields.io/badge/Email-sandeep@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeep@example.com)
 
 </div>
 
 ---
 
-## 💡 Latest Blog Posts
+## 💡 Latest Updates
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable Flutter Apps with Clean Architecture](https://devcraft.io/flutter-clean-architecture)
-- 🎨 [Material You: Implementing Dynamic Color in Android](https://devcraft.io/material-you-guide)
-- ⚡ [60fps Flutter Animations — Tips from the Trenches](https://devcraft.io/flutter-animations)
-- 📱 [Why I Migrated from React Native to Flutter (And Back)](https://devcraft.io/rn-vs-flutter)
-<!-- BLOG-POST-LIST:END -->
+- 🚀 Developing innovative applications with modern tech stacks
+- 📚 Contributing to open source community
+- 🎯 Building solutions that make a difference
+- 💬 Always open to collaboration and learning
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/alexchen-dev/alexchen-dev/blob/output/github-contribution-grid-snake-dark.svg)
+![Contributions Snake Animation](https://github.com/Sandeepbedia/Sandeepbedia/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -192,14 +188,14 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 
 ### 💜 Support My Work
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alexchen)
-[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/alexchen-dev)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sandeepbedia)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Sandeepbedia)
 
 <br/>
 
-*"The best app is the one that feels invisible — so good the user never thinks about it."*
+*"Great code is like great design — it's invisible because it works so well."*
 
-**— Alex Chen**
+**— Sandeep Bedia**
 
 <br/>
 
