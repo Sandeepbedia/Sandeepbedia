@@ -56,12 +56,6 @@ Building scalable mobile & web applications with clean UI and performance-focuse
 
 ---
 
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sandeepbedia-181717?style=for-the-badge&logo=github)](https://github.com/Sandeepbedia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandeep_Bedia-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:sandeep@example.com)
-
 ---
 
 <div align="center">
