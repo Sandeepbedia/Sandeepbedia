@@ -84,20 +84,6 @@ A feature-rich, modern Android music player built with **Kotlin + Jetpack Compos
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeepbedia&show_icons=true&theme=material-palenight&hide_border=true&rank_icon=github&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepbedia&layout=compact&theme=material-palenight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sandeepbedia&theme=material-palenight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
